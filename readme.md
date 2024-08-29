@@ -31,7 +31,7 @@ Given a set of `n` locations representing demand points and a set of `m` potenti
 ## Setup & Execution
 
 1. Ensure you have Jupyter Notebook and other required packages installed.
-2. Clone the repository: `git clone https://github.com/<your_username>/Metaheuristic-Optimization-Activity1.git`
+2. Clone the repository: `git clone https://github.com/<your_username>/P-Median-Problem.git`
 3. Navigate to the cloned directory.
 4. Install required packages: `pip install -r requirements.txt`
 5. Run Jupyter Notebook: `jupyter notebook`
