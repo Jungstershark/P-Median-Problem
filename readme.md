@@ -1,6 +1,9 @@
-# Metaheuristic Optimization - Activity 1
+# [SHARP] Metaheuristic Optimization - P Median Problem
+[![GitHub license](https://img.shields.io/github/license/Jungstershark/P-Median-Problem)](https://github.com/Jungstershark/P-Median-Problem/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Jungstershark/P-Median-Problem?style=social)](https://github.com/Jungstershark/P-Median-Problem/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jungstershark/P-Median-Problem?style=social)](https://github.com/Jungstershark/P-Median-Problem/network/members)
 
-This repository contains the Jupyter notebooks, text files, and requirements for the project activity on the p-median location problem, which aims to determine the optimal selection of facilities from a set of potential locations. The goal is to minimize the total distance associated with serving all demand points while ensuring that each demand point is assigned to its nearest facility among the selected.
+This repository contains the Jupyter notebooks, text files, and supporting documentation for the project activity on the p-median location problem. The objective of this project is to determine the optimal selection of facilities from a set of potential locations, minimizing the total distance for serving all demand points while ensuring that each demand point is assigned to its nearest selected facility.
 
 ## Contents
 
@@ -30,9 +33,19 @@ Given a set of `n` locations representing demand points and a set of `m` potenti
 
 ## Setup & Execution
 
-1. Ensure you have Jupyter Notebook and other required packages installed.
-2. Clone the repository: `git clone https://github.com/<your_username>/P-Median-Problem.git`
+Setup & Execution
+1. Ensure you have Jupyter Notebook and required Python packages installed.
+2. Clone the repository:
+```bash
+git clone https://github.com/<your_username>/P-Median-Problem.git
+```
 3. Navigate to the cloned directory.
-4. Install required packages: `pip install -r requirements.txt`
-5. Run Jupyter Notebook: `jupyter notebook`
-6. Open each notebook and run the cells in sequence.
+4. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+5. Run Jupyter Notebook:
+```bash
+jupyter notebook
+```
+6. Open each notebook and execute the cells sequentially.
